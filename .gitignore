@@ -3,6 +3,6 @@ package-lock.json
 Dockerfile
 .dockerignore
 node_modules
-docker-compose.yml
+# docker-compose.yml
 docker-compose-api.yml
 docker-compose-database.yml
