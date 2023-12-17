@@ -1,0 +1,22 @@
+{
+  "name": "building-basic-api-using-node-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./controller/control.application.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./controller/control.application.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "process": "^0.11.10",
+    "winston": "^3.11.0"
+  }
+}
